@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\С#Lesson1.1\Adidas\Adidas_helloconsole\bin\Debug\net6.0\Adidas_helloconsole.exe
+C:\Users\ASUS\Desktop\С#Lesson1.1\Adidas\Adidas_helloconsole\bin\Debug\net6.0\Adidas_helloconsole.deps.json
+C:\Users\ASUS\Desktop\С#Lesson1.1\Adidas\Adidas_helloconsole\bin\Debug\net6.0\Adidas_helloconsole.runtimeconfig.json
+C:\Users\ASUS\Desktop\С#Lesson1.1\Adidas\Adidas_helloconsole\bin\Debug\net6.0\Adidas_helloconsole.dll
+C:\Users\ASUS\Desktop\С#Lesson1.1\Adidas\Adidas_helloconsole\bin\Debug\net6.0\Adidas_helloconsole.pdb
+C:\Users\ASUS\Desktop\С#Lesson1.1\Adidas\Adidas_helloconsole\obj\Debug\net6.0\Adidas_helloconsole.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\С#Lesson1.1\Adidas\Adidas_helloconsole\obj\Debug\net6.0\Adidas_helloconsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\С#Lesson1.1\Adidas\Adidas_helloconsole\obj\Debug\net6.0\Adidas_helloconsole.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\С#Lesson1.1\Adidas\Adidas_helloconsole\obj\Debug\net6.0\Adidas_helloconsole.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\С#Lesson1.1\Adidas\Adidas_helloconsole\obj\Debug\net6.0\Adidas_helloconsole.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\С#Lesson1.1\Adidas\Adidas_helloconsole\obj\Debug\net6.0\Adidas_helloconsole.dll
+C:\Users\ASUS\Desktop\С#Lesson1.1\Adidas\Adidas_helloconsole\obj\Debug\net6.0\refint\Adidas_helloconsole.dll
+C:\Users\ASUS\Desktop\С#Lesson1.1\Adidas\Adidas_helloconsole\obj\Debug\net6.0\Adidas_helloconsole.pdb
+C:\Users\ASUS\Desktop\С#Lesson1.1\Adidas\Adidas_helloconsole\obj\Debug\net6.0\Adidas_helloconsole.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\С#Lesson1.1\Adidas\Adidas_helloconsole\obj\Debug\net6.0\ref\Adidas_helloconsole.dll
